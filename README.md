@@ -3,7 +3,7 @@ Menu Slider + Floating Slider
 <br>
 <b>Floating Slide Menu <br>
 <img src="https://github.com/raj21kadam/RK_SideMenu/blob/master/FloatingSlider_Menu.png"> <br>
-PopOver Side Menu <br>
+PopOver Side Menu <br></b>
 <img src="https://github.com/raj21kadam/RK_SideMenu/blob/master/Slider_menu.png">
 <h4>How To Use</h4>
 
